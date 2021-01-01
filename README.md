@@ -3,8 +3,7 @@
 ✨My name is Rajni Gupta.<br>
 ✨I'm an ML Enthusiast who is here to enhance and explore the Tech World. <br>
 ✨I'm from Nagpur, currently studying 🌱 in Pune. <br>
-✨You can find me 📫 on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/~rajni/)](https://www.linkedin.com/in/~rajni/)or on [HackerRank](https://www.hackerrank.com/softygupta2908)
-<br><br>
+✨You can find me 📫 on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/~rajni/) [![HackerRank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.linkedin.com/in/~rajni/)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
