@@ -1,7 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rajni Gupta and I'm an ML Enthusiast fellow coder who is here to enhance and explore the Tech World. I'm from Nagpur, currently studying 🌱 in Pune. You can find me 📫 on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-saksham/)](https://www.linkedin.com/in/-saksham/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skshamagarwal@gmail.com)](mailto:skshamagarwal@gmail.com)
- or on [HackerRank](https://www.hackerrank.com/skshamagarwal)
+My name is Rajni Gupta and I'm an ML Enthusiast fellow coder who is here to enhance and explore the Tech World. I'm from Nagpur, currently studying 🌱 in Pune. You can find me 📫 on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/~rajni/)](https://www.linkedin.com/in/~rajni/)or on [HackerRank](https://www.hackerrank.com/softygupta2908)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -16,8 +15,8 @@ My name is Rajni Gupta and I'm an ML Enthusiast fellow coder who is here to enha
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/a-saksham/a-saksham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-saksham&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saksham's GitHub Stats" />
+<a href="https://github.com/rajni0829/rajni0829/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajni0829&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rajni's GitHub Stats" />
 </a>
 
 
