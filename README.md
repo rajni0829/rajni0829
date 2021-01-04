@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
-
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rajni0829/rajni0829/">
@@ -21,7 +21,6 @@
 </a>
 
 
-<!--
 **rajni0829/rajni0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
