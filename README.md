@@ -18,11 +18,11 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/>
-    cpp
-<!--         <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    
+        <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
+    <img src="https://img.shields.io/badge/C++-ff69b4"
       alt="cpp"/> 
-  </a>  -->
+  </a> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
