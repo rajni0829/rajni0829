@@ -3,21 +3,12 @@
 </p> -->
 
 <h1 align="center">Hi, I'm Rajni Gupta<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
+<!-- <h3 font-size="20" align="center">A passionate developer and a student from Indi.</h3> -->
 
 
-<!-- - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"/> -->
-
-### 👯 I'm an **ML Enthusiast** who is here to enhance and explore the Tech World. <br>
-### 🤝 I'm from Nagpur, currently studying 🌱 in Pune. <br>
-
-<!-- - 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48) -->
-
-<!-- - 💬 Ask me about **System Designs and Philosophy 😆** -->
-
-### ⚡Believes in "Turning challenges into opportunities".
-
-
+### 👯 An **ML Enthusiast** who is here to enhance and explore the Tech World. <br>
+### 🌱 From Nagpur, currently studying in Pune. <br>
+### ⚡ Believes in "Turning challenges into opportunities".
 ---
 
 
@@ -102,9 +93,13 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-<!--   <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+   <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
       alt="express" />
+     
+<a href="https://expressjs.com" target="_blank">
+    <img src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white" alt= "php"/>
+     <!--
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
   </a>
@@ -205,15 +200,26 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS IDE"/> 
   </a>
+  
+   <a href="https://jupyter.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/>
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/sublimetext%20-%23FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="VS IDE"/> 
+  </a>
+     <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SC"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
-<!--   <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a> -->
+  <a href="https://pycharm.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white" alt="pycharm"/>
+  </a>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
@@ -221,14 +227,29 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="ML"/>
+  </a>
+  
+  
+    
+    <a href="#" target="_blank"> 
+    <img src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black" alt = "Linux"/></a>
 </p>
 <h3 align="center">Libraries & Packages</h3>
 <p align="center">
       <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054"
       alt="Pandas"/>
-  </a>
-----
+        
+   <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"
+         alt="Numpy"/>
+   
+     
+<a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"
+      alt="Pandas"/>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -245,7 +266,7 @@
     <a href="https://www.leetcode.com/rajni_99" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
-  
+  <a href="mailto:rajni.gupta2901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
@@ -256,9 +277,9 @@
 <!--   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a> -->
-</p> 
+<!-- </p>  -->
 
-----
+
 
 <!-- <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
