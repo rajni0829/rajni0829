@@ -225,7 +225,7 @@
   
   </p>
 
-<h3 align="center"><img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
+<!-- <h3 align="center"><img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3> -->
 
 <!-- <p align="center">
   <a  href="https://t.me/example" target="_blank">
