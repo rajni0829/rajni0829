@@ -50,7 +50,9 @@
   </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
-
+        
+<!--         <a href="https://www.typescriptlang.org/" target="_blank"> 
+          <img src="https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart" /></a> -->
 </p>
 
 
@@ -275,6 +277,10 @@
     </a>
   <a href="mailto:rajni.gupta2901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+  
+<!--      <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" /> </a> -->
+  
 <!--   <a href="https://farahelahmadi.me">
      <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
   <a/> -->
