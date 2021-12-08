@@ -158,9 +158,9 @@
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
-  <a href="https://pycharm.org" target="_blank"> 
+<!--   <a href="https://pycharm.org" target="_blank"> 
     <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white" alt="pycharm"/>
-  </a>
+  </a> -->
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
