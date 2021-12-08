@@ -148,12 +148,13 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
+       <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SC"/>
+  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/sublimetext%20-%23FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="VS IDE"/> 
   </a>
-     <a href="#" target="_blank"> 
-    <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SC"/>
-  </a>
+
     <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
