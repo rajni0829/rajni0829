@@ -232,6 +232,9 @@
     <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="ML"/>
   </a>
   
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter"/>
+  
    <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="ML"/>
   </a>
