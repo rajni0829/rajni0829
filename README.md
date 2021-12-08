@@ -168,12 +168,12 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
-  <a href="#" target="_blank"> 
+<!--   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="ML"/>
-  </a>
+  </a> -->
   
-  <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter"/>
+<!--   <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter" alt="Flutter"/> -->
   
    <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="ML"/>
@@ -183,7 +183,7 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
    </a> -->
 </p>
-<h3 align="center">Libraries & Packages</h3>
+<!-- <h3 align="center">Libraries & Packages</h3>
 <p align="center">
       <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054"
@@ -197,7 +197,7 @@
 <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"
       alt="Pandas"/>
-  </p>
+  </p> -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a  href="https://linkedin.com/in/~rajni" target="_blank">
