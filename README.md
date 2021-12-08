@@ -95,34 +95,17 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
+    <a href="https://django.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django" alt="django " /> 
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white" alt= "php"/>
+  
    <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
       alt="express" />
      
-<a href="https://expressjs.com" target="_blank">
-    <img src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white" alt= "php"/>
-  
-  <a href="https://django.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django" alt="django " /> 
-  </a>
-       <!--
 
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a>  -->
 </p>
 
 <h3 align="center">Database</h3>
