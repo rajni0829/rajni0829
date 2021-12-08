@@ -12,7 +12,7 @@
 ---
 
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages:</h3>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -57,7 +57,7 @@
 
 
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend:</h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend:</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -96,7 +96,7 @@
 
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Database:</h3>
 <p align="center">
 
   <a href="https://www.w3schools.com/python/python_mysql_getstarted.asp" target="_blank"> 
@@ -198,7 +198,7 @@
     <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"
       alt="Pandas"/>
   </p> -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a  href="https://linkedin.com/in/~rajni" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
