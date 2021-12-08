@@ -1,22 +1,21 @@
-<p align="center">
+<!-- <p align="center">
   <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Rajni Gupta<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"/>
+<!-- - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"/> -->
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+### 👯 I'm an **ML Enthusiast** who is here to enhance and explore the Tech World. <br>
+### 🤝 I'm from Nagpur, currently studying 🌱 in Pune. <br>
 
-- 🤝 I’m looking for help with **Backend Design**
+<!-- - 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48) -->
 
-- 👨‍💻 All of my projects are available [@Elanza-48](github.com/Elanza-48)
+<!-- - 💬 Ask me about **System Designs and Philosophy 😆** -->
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
+### ⚡Believes in "Turning challenges into opportunities".
 
 
 ---
@@ -143,14 +142,17 @@
       alt="sqlite"/> 
   </a> -->
   <a href="https://www.w3schools.com/python/python_mysql_getstarted.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68"
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> 
   </a> 
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  </a>
+<!--   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank">
@@ -162,10 +164,10 @@
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
-  </a> 
+  </a>  -->
 </p>
 
-<h3 align="center">Testing</h3>
+<!-- <h3 align="center">Testing</h3>
 <p align="center"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
@@ -174,7 +176,7 @@
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
-</p>
+</p> -->
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
@@ -182,26 +184,26 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/rajni0829" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
+<!--   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
+  </a> -->
+    <a href="https://www.qwiklabs.com/public_profiles/e8469ec5-d748-4d77-9507-b42d2da2c872" target="_blank">
+    <img src=""
+      alt="qwiklabs"/>
   </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
+<!--   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS IDE"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -209,9 +211,9 @@
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
-  <a href="https://postman.com" target="_blank"> 
+<!--   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
+  </a> -->
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
@@ -229,31 +231,28 @@
 ----
 
 <h3 align="center">Connect with me</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+<p align="center">
+<a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-     </div>
-   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
+ 
+<a  href="https://www.codechef.com/users/example" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
-  
     <a href="https://www.hackerrank.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
     <a href="https://www.leetcode.com/example" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
-  </div>
-</div>
+  
+</p>
+
 
 <!-- <p align="center">
   <a  href="https://t.me/example" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a> -->
+  </a> --> -->
 <!--   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a> -->
