@@ -127,10 +127,10 @@
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a> -->
-    <a href="https://www.qwiklabs.com/public_profiles/e8469ec5-d748-4d77-9507-b42d2da2c872" target="_blank">
+<!--     <a href="https://www.qwiklabs.com/public_profiles/e8469ec5-d748-4d77-9507-b42d2da2c872" target="_blank">
     <img src=""
       alt="qwiklabs"/>
-  </a>
+  </a> -->
 <!--   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a> -->
@@ -197,7 +197,7 @@
 <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"
       alt="Pandas"/>
-
+  </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a  href="https://linkedin.com/in/~rajni" target="_blank">
