@@ -232,17 +232,17 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a  href="https://linkedin.com/in/example" target="_blank">
+<a  href="https://linkedin.com/in/~rajni" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
  
-<a  href="https://www.codechef.com/users/example" target="_blank">
+<a  href="https://www.codechef.com/users/insane_99" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
+    <a href="https://www.hackerrank.com/rajni_99" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
+    <a href="https://www.leetcode.com/rajni_99" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   
