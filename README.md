@@ -17,17 +17,16 @@
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"
-      alt="python"/>
+         alt="python"/></a>
     
-        <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/C++-ff69b4"
-      alt="cpp"/> 
-  </a> 
+   <a href="https://www.cpp.org/" target="_blank">
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="cpp"/>
   </a>
+      
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
-    
+  
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -49,7 +48,8 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
-    ecmascript
+      <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" />
 
 </p>
 
@@ -231,10 +231,13 @@
     <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" alt="ML"/>
   </a>
   
+   <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="ML"/>
+  </a>
   
-    
-    <a href="#" target="_blank"> 
-    <img src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black" alt = "Linux"/></a>
+<!--       <a href="#" target="_blank"> 
+  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+   </a> -->
 </p>
 <h3 align="center">Libraries & Packages</h3>
 <p align="center">
