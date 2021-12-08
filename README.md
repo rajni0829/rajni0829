@@ -99,10 +99,12 @@
      
 <a href="https://expressjs.com" target="_blank">
     <img src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white" alt= "php"/>
-     <!--
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+  
+  <a href="https://django.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django" alt="django " /> 
   </a>
+       <!--
+
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a>
@@ -119,7 +121,6 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
   </a>  -->
-  Django
 </p>
 
 <h3 align="center">Database</h3>
@@ -270,7 +271,12 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   <a href="mailto:rajni.gupta2901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
+<!--   <a href="https://farahelahmadi.me">
+     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
+  <a/> -->
+  
+  </p>
 
 <h3 align="center"><img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 
