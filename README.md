@@ -163,6 +163,10 @@
 <!--   <a href="https://pycharm.org" target="_blank"> 
     <img src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white" alt="pycharm"/>
   </a> -->
+  
+<!--   <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt=""/> 
+  </a> -->
 
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
