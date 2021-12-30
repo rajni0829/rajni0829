@@ -124,7 +124,7 @@
   </a>
 <!--   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
+      alt="git"/> 
   </a> -->
 <!--     <a href="https://www.qwiklabs.com/public_profiles/e8469ec5-d748-4d77-9507-b42d2da2c872" target="_blank">
     <img src=""
