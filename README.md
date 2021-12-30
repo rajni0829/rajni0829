@@ -69,7 +69,7 @@
       alt="react"/>
   </a>
   <a href="https://angularjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" alt="angularjs"/> 
+    <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" alt="angularjs"/>  
   </a>
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
