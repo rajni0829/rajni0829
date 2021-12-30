@@ -127,7 +127,7 @@
       alt="git"/> 
   </a> -->
 <!--     <a href="https://www.qwiklabs.com/public_profiles/e8469ec5-d748-4d77-9507-b42d2da2c872" target="_blank">
-    <img src=""
+    <img src=""   
       alt="qwiklabs"/> 
   </a> -->
 <!--   <a href="https://www.jenkins.io" target="_blank"> 
