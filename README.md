@@ -99,7 +99,7 @@
 <p align="center">
 
   <a href="https://www.w3schools.com/python/python_mysql_getstarted.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" 
       alt="mysql"/> 
   </a> 
 </p>
