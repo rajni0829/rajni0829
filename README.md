@@ -128,7 +128,7 @@
   </a> -->
 <!--     <a href="https://www.qwiklabs.com/public_profiles/e8469ec5-d748-4d77-9507-b42d2da2c872" target="_blank">
     <img src=""
-      alt="qwiklabs"/>
+      alt="qwiklabs"/> 
   </a> -->
 <!--   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
