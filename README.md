@@ -40,7 +40,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+      alt="html5"/>   
     
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
