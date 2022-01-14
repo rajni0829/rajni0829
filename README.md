@@ -32,7 +32,7 @@
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">   
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+      alt="javascript"/>  
   </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
