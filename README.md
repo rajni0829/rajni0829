@@ -3,7 +3,7 @@
 </p> -->              
 <img align="right" style="width:14rem; height:14rem" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/> 
 <h1 align="center">Hi, I'm Rajni Gupta <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1> 
-<!-- <h3 font-size="20" align="center">A passionate developer and a student from Indi.</h3> -->             
+<!-- <h3 font-size="20" align="center">A passionate developer and a student from Indi.</h3> -->               
                 
          
          
