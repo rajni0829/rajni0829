@@ -7,7 +7,7 @@
                    
             
           
-### 👯 An **ML Enthusiast** who is here to enhance and explore the Tech World. <br>   
+### 👯 An **ML Enthusiast** who is here to enhance and explore the Tech World. <br>    
 ### 🌱 From Nagpur, currently studying in Pune. <br>    
 ### ⚡ Believes in "Turning challenges into opportunities". 
 ---     
