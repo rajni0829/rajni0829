@@ -19,7 +19,7 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"
          alt="python"/></a>
-    
+     
    <a href="https://www.cpp.org/" target="_blank">
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="cpp"/>
   </a>
