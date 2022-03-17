@@ -240,7 +240,7 @@
   </a> -->
 <!-- </p>  -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
@@ -248,6 +248,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
 </div> -->
 
-[![](https://github-readme-stats.vercel.app/api?username=rajni0829&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/rajni0829)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=rajni0829&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/rajni0829)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=rajni0829&theme=material-palenight)](https://github.com/rajni0829)
-</div>
+</div> -->
