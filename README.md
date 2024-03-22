@@ -7,8 +7,8 @@
                             
                      
              
-### 👯 An **ML Enthusiast** who is here to enhance and explore the Tech World. <br>     
-### 🌱 From Nagpur, currently studying in Pune. <br>      
+### 👯 An **SRE at Juspay Technologies** who is here to enhance and explore the Tech World. <br>     
+### 🌱 From Nagpur, currently working in Bangalore. <br>      
 ### ⚡ Believes in "Turning challenges into opportunities". 
 ---     
  
